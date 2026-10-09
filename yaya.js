@@ -1,1 +1,1 @@
-alert(testes)
+alert(1)
